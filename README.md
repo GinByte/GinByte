@@ -7,5 +7,4 @@ I am seeking opportunities to apply my skills and contribute to innovative compu
 
 <img width='810' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GinByte&theme=slateorange" />
 
-
-
+Thank you for visiting my profile !
